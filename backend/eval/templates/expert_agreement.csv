@@ -1,0 +1,5 @@
+attempt_id,movement_id,system_status,expert_status
+1,arm_extension,passed,passed
+2,arm_extension,failed,failed
+3,arm_extension,not_assessed,failed
+4,ready_stance,passed,passed
